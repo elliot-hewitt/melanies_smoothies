@@ -3,7 +3,7 @@ from snowflake.snowpark.functions import col
 
 st.title(":cup_with_straw: Customise your Smoothie! :cup_with_straw:")
 st.write(
-  """Choose the fruit you want in you custom Smoothie!
+  """Choose the fruit you want in you custom Smoothie!!
   """
 )
 name_on_order = st.text_input('Name on Smoothie:')
